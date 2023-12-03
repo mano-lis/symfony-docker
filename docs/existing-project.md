@@ -31,3 +31,5 @@ Start the project!
     docker compose up -d
 
 Browse `https://localhost`, your Docker configuration is ready!
+
+*Note: If you want to use the worker mode of FrankenPHP, make sure you required the `runtime/frankenphp-symfony` package.*

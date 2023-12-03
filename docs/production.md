@@ -40,8 +40,8 @@ Example:
 your-domain-name.example.com.  IN  A     207.154.233.113
 ````
 
-Note: Let's Encrypt, the service used by default by Symfony Docker to automatically generate a TLS certificate doesn't support using bare IP addresses.
-Using a domain name is mandatory to use Let's Encrypt.
+*Note: Let's Encrypt, the service used by default by Symfony Docker to automatically generate a TLS certificate doesn't support using bare IP addresses.
+Using a domain name is mandatory to use Let's Encrypt.*
 
 ## Deploying
 
